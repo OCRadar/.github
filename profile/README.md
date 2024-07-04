@@ -31,3 +31,6 @@ OCRadar is an innovative solution designed to revolutionize the detection of ora
 ## Conclusion
 
 OCRadar represents a leap forward in the fight against oral cancer, combining cutting-edge AI technology with practical, user-friendly applications. By empowering both medical professionals and the general public with powerful diagnostic tools, OCRadar aims to reduce the incidence and improve the prognosis of oral cancer worldwide. Join us in our mission to combat oral cancer with precision and innovation.
+
+
+Copyright © 2024 OCRadar. Unauthorized use of any file, code, or information is prohibited.
