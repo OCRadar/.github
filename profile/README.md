@@ -12,7 +12,6 @@ OCRadar is an innovative solution designed to revolutionize the detection of ora
 ### State-of-the-Art iOS App
 - **User-Friendly Interface:** The app is designed with a simple, intuitive interface, making it accessible for users of all technical backgrounds.
 - **Real-Time Analysis:** Users can capture images of oral regions, which the app analyzes in real time, providing immediate feedback on potential cancer indicators.
-- **Comprehensive Reports:** Generates detailed reports that can be shared with healthcare providers for further examination and diagnosis.
 
 ### For Medical Professionals
 - **Clinical Integration:** Seamlessly integrates into clinical workflows, aiding in routine examinations and early detection strategies.
@@ -20,7 +19,6 @@ OCRadar is an innovative solution designed to revolutionize the detection of ora
 
 ### For the General Public
 - **Preventive Tool:** Empowers individuals to monitor their oral health regularly, detecting abnormalities before they become serious.
-- **Educational Resources:** Provides users with information on oral cancer symptoms, risk factors, and preventive measures, promoting awareness and proactive health management.
 
 ## Benefits
 - **Early Detection:** Significantly increases the likelihood of identifying oral cancer at an early, more treatable stage.
