@@ -8,7 +8,6 @@ OCRadar is an innovative solution designed to revolutionize the detection of ora
 
 ### Advanced AI Model
 - **Custom Developed:** Our AI model is meticulously trained on diverse datasets to ensure high accuracy in detecting early signs of oral cancer.
-- **Continuous Learning:** The model evolves and improves with each use, integrating new data to enhance its diagnostic precision.
 
 ### State-of-the-Art iOS App
 - **User-Friendly Interface:** The app is designed with a simple, intuitive interface, making it accessible for users of all technical backgrounds.
