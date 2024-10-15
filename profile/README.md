@@ -6,5 +6,4 @@ Copyright © 2024 OCRadar. Unauthorized use of any file, code, or information is
 
 Contact us at:
 [contact@ocradar.com](mailto:contact@ocradar.com)
-
 [aniketh@ocradar.com](mailto:aniketh@ocradar.com)
