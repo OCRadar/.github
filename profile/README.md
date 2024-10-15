@@ -4,7 +4,7 @@
 
 Copyright © 2024 OCRadar. Unauthorized use of any file, code, or information is prohibited. Any source code, whether currently published or that may be published in the future, is subject to our licensing terms and conditions.
 
-
+Contact us at:
 [contact@ocradar.com](mailto:contact@ocradar.com)
 
 [aniketh@ocradar.com](mailto:aniketh@ocradar.com)
